@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cresta Social Share Counter\n"
+"POT-Creation-Date: 2014-09-10 00:53+0100\n"
+"PO-Revision-Date: 2014-09-22 13:43+0100\n"
+"Last-Translator: jelena kovacevic <jecajeca260@gmail.com>\n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: cresta-social-share-counter.php:29
+msgid "Settings"
+msgstr "Configuraciones"
+
+#: cresta-social-share-counter.php:385
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Usted no tiene permisos suficientes para acceder a esta página."
+
+#: cresta-social-share-counter.php:463
+msgid "Settings Saved..."
+msgstr "Configuraciones guardadas ..."
+
+#: cresta-social-share-counter.php:524
+msgid "Cresta Social Share Counter Settings"
+msgstr "Configuración de Cresta Social Share Counter"
+
+#: cresta-social-share-counter.php:531
+msgid "Select buttons to display on website :"
+msgstr "Seleccione botones para mostrar en la página web:"
+
+#: cresta-social-share-counter.php:539
+msgid "Twitter username (optional):"
+msgstr "Nombre de usuario de Twitter (opcional):"
+
+#: cresta-social-share-counter.php:552
+msgid "Choose buttons style :"
+msgstr "Elegir estilo de botones :"
+
+#: cresta-social-share-counter.php:585
+msgid "Display Setting :"
+msgstr "Configuración de pantalla:"
+
+#: cresta-social-share-counter.php:587 cresta-social-share-counter.php:590
+msgid "Enable shadow on buttons"
+msgstr "Habilitar sombra en los botones"
+
+#: cresta-social-share-counter.php:593
+msgid "Show Social Counter"
+msgstr "Mostrar Social Counter"
+
+#: cresta-social-share-counter.php:596
+msgid "Show Total Shares"
+msgstr "Mostrar Compartidas Totales"
+
+#: cresta-social-share-counter.php:600
+msgid "Float Position :"
+msgstr "Posición del Flotador:"
+
+#: cresta-social-share-counter.php:602
+msgid "Show Floating Buttons"
+msgstr "Mostrar Botones Flotantes"
+
+#: cresta-social-share-counter.php:605
+msgid "Float Buttons Position:"
+msgstr "Posición Botones Flotantes:"
+
+#: cresta-social-share-counter.php:605 cresta-social-share-counter.php:627
+msgid "Left"
+msgstr "Izquierda"
+
+#: cresta-social-share-counter.php:605 cresta-social-share-counter.php:627
+msgid "Right"
+msgstr "Derecha"
+
+#: cresta-social-share-counter.php:608
+msgid "Position From Top:"
+msgstr "Posición desde Arriba:"
+
+#: cresta-social-share-counter.php:610
+msgid "Position From Left or Right:"
+msgstr "Posición desde la Izquierda o la Derecha:"
+
+#: cresta-social-share-counter.php:612
+msgid "Disable Floating Buttons On Mobile"
+msgstr "DesactivarBotones Flotantes En Móvil"
+
+#: cresta-social-share-counter.php:615
+msgid "Show CrestaProject Credit :)"
+msgstr "Mostrar Crédito CrestaProject  :)"
+
+#: cresta-social-share-counter.php:619
+msgid "Post and Page Position :"
+msgstr "Posición de Publicación y Página:"
+
+#: cresta-social-share-counter.php:621
+msgid "Add Social Buttons before post/page content"
+msgstr "Añadir Botones Sociales antes del contenido de la publicación/página"
+
+#: cresta-social-share-counter.php:624
+msgid "Add Social Buttons after post/page content"
+msgstr ""
+"Añadir Botones Sociales después de colocar nuestros / página de contenido"
+
+#: cresta-social-share-counter.php:627
+msgid "Buttons Position (in content):"
+msgstr "Posición de Botones (en contenido):"
+
+#: cresta-social-share-counter.php:630
+msgid "You can place the shortcode"
+msgstr "Usted puede colocar el código corto"
+
+#: cresta-social-share-counter.php:630
+msgid "wherever you want to display the social buttons."
+msgstr "donde quiera mostrar los botones sociales."
+
+#: cresta-social-share-counter.php:634
+msgid "Show on :"
+msgstr "Mostrar en:"
+
+#: cresta-social-share-counter.php:636
+msgid "Pages"
+msgstr "Páginas"
+
+#: cresta-social-share-counter.php:639
+msgid "Posts"
+msgstr "Mensajes"
+
+#: cresta-social-share-counter.php:642
+msgid "Media"
+msgstr "Medios"
+
+#: cresta-social-share-counter.php:661
+msgid "Save Setting"
+msgstr "Guardar Configuración"
